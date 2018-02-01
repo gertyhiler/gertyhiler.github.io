@@ -1,0 +1,16 @@
+@media only screen and (max-width: 450px){
+
+/*header on small screen*/
+
+.header{
+
+
+}
+.logo{
+	font-size: 18px;
+}
+.list{
+	font-size: 15px;
+}
+
+}
