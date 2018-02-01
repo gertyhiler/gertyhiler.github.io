@@ -11,6 +11,10 @@ visibility: hidden;
     margin : 0;
     font-family: sans-serif;
 }
+.portrait{
+	display: none;
+	position: absolute;
+}
 
 body {
     background : white;
