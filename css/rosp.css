@@ -16,7 +16,6 @@ header{
     margin-bottom: 50px;
 }
 .rosp>img{
-    width: 640px;
     
 }
 .rosp{
@@ -24,6 +23,7 @@ header{
     border: 25px solid #000;
     border-radius: 20px;
     padding: 5px;
+    max-width: 640px;
 }
 .cont_rosp{
     display: flex;
