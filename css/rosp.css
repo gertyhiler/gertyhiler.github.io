@@ -3,15 +3,12 @@
     padding: 0;
 }
 header{
-    font-family: sans-serif;
+    font-family: 'Comfortaa', cursive;
     font-size: 48px;
-    padding-top: 25%;
-    height: 50%;
-    display: -webkit-flex;
-    display: -moz-flex;
-    display: -ms-flex;
-    display: -o-flex;
+    height: 500px;
+    text-align:center; 
     display: flex;
+    flex-direction: column;
     justify-content: center;
     text-transform: uppercase;
     color: #fff;
