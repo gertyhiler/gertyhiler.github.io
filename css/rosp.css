@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    font-family: sans-serif;
+    font-size: 48px;
+    padding-top: 25%;
+    height: 50%;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    color: #fff;
+    background: #000;
+    margin-bottom: 50px;
+}
+.rosp>img{
+    width: 640px;
+    
+}
+.rosp{
+    margin-bottom: 20px;
+    border: 25px solid #000;
+    border-radius: 20px;
+    padding: 5px;
+}
+.cont_rosp{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 15px;
+}
