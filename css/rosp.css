@@ -5,11 +5,12 @@
 header{
     font-family: 'Comfortaa', cursive;
     font-size: 48px;
+    padding-top:;
     height: 500px;
     text-align:center; 
     display: flex;
-    flex-direction: column;
     justify-content: center;
+    flex-direction: column;
     text-transform: uppercase;
     color: #fff;
     background: #000;
@@ -17,18 +18,16 @@ header{
 }
 .rosp>img{
     width:100%;
-    
 }
 .rosp{
-    margin-bottom: 20px;
+    margin-bottom: 37px;
     border: 25px solid #000;
     border-radius: 20px;
     max-width: 640px;
+    display: inline-block;
 }
 .cont_rosp{
-    text-align:center;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    text-align: center;
     padding: 15px;
+    display: inline-block;
 }
