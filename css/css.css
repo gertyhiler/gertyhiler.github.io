@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+body{
+    padding: 0px 2em;
+}
+header{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 1em;
+    color: #fff;
+    background-color: #000;
+    opacity: 0.9;
+    
+}
+    h1, h2{
+    display: block;
+    text-align: center;
+        margin: 10px;
+    text-transform: uppercase;
+    
+}
+.happy{
+    
+}
