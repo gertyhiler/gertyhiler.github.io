@@ -1,0 +1,39 @@
+* {
+    margin:0;
+    padding:0;   
+    font-family: sans-serif;
+}
+header {
+    padding: 20%;
+    text-align: center;
+    background:#000;
+    color:#fff;
+}
+h1 {
+    text-transform: uppercase;
+
+}
+body {
+    padding: 10px;
+}
+.button{
+    padding: 1em;
+    margin: 20px;
+    text-transform:capitalize;
+    border-radius: 8px;
+}
+.window {
+    width:200px;
+    height:200px;
+    padding:10px;
+
+    position: absolute;
+    left: 6em;
+    top: 4em;
+
+    background: #fff;
+    box-shadow: 1px 1px 20px #fff;
+    border-radius: 6px;
+
+    opacity: 0;
+}
