@@ -17,12 +17,11 @@ header{
     flex-direction: column;
 }
 textarea{
+    padding: 10px;
     border: 2px solid black;
 }
 
 button{
-    /* position: relative;
-    left: -18.8em; */
     float: right;
     height: 30px;
     width: 20%;
