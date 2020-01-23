@@ -1,4 +1,3 @@
-//let text = document.getElementById('text').addEventListener('click', clear);
 let fun ={
     clear(){
         document.getElementById("text").value = ""
