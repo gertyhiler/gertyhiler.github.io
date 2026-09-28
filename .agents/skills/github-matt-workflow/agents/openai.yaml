@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Matt Workflow"
+  short_description: "Use Matt methods with lightweight GitHub task tracking"
+  default_prompt: "Use $github-matt-workflow for this GitHub-backed project task."

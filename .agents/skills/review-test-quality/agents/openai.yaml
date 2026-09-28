@@ -1,0 +1,4 @@
+interface:
+  display_name: "Test Quality Review"
+  short_description: "Review test value and regression coverage"
+  default_prompt: "Use $review-test-quality to assess whether tests protect meaningful behavior."

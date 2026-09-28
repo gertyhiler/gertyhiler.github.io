@@ -1,0 +1,4 @@
+interface:
+  display_name: "Premium Animation"
+  short_description: "Create polished premium interface motion"
+  default_prompt: "Use $premium-animation to design polished motion for this interface."

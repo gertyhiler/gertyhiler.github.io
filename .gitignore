@@ -1,3 +1,14 @@
-/node_modules
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+.env*
+
+.agents/local/*
+!.agents/local/.gitkeep
+.agents/tmp/*
+!.agents/tmp/.gitkeep
+.agents/work/*
+!.agents/work/.gitkeep
+
 .DS_Store
-/.vscode

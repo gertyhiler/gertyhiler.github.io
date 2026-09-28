@@ -1,0 +1,4 @@
+interface:
+  display_name: "Architecture And Reuse Review"
+  short_description: "Review FSD placement and component reuse"
+  default_prompt: "Use $review-architecture-reuse to assess architecture and reuse without changing code."

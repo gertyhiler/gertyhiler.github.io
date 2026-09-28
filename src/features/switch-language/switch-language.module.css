@@ -1,0 +1,32 @@
+.languages {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding-left: 20px;
+  border-left: 1px solid var(--line);
+  font-size: 11px;
+  letter-spacing: 0.03em;
+}
+.languages a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  min-width: 28px;
+  text-decoration: none;
+  color: var(--muted);
+}
+.languages a:hover {
+  color: var(--ink);
+}
+.languages a[aria-current] {
+  color: var(--green);
+  text-decoration: underline;
+  text-underline-offset: 5px;
+}
+@media (max-width: 600px) {
+  .languages {
+    gap: 8px;
+    padding-left: 12px;
+  }
+}

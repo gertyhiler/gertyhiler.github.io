@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review"
+  short_description: "Coordinate structured cross-discipline review"
+  default_prompt: "Use $review to run a structured cross-discipline review of these changes."

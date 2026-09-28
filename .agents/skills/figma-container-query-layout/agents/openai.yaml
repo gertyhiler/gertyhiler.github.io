@@ -1,0 +1,4 @@
+interface:
+  display_name: "Figma Container Query Layout"
+  short_description: "Build proportional Figma layouts with cqw"
+  default_prompt: "Use $figma-container-query-layout to implement this Figma layout with container queries."

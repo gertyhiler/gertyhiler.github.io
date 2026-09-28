@@ -1,0 +1,4 @@
+interface:
+  display_name: "Model Content Data"
+  short_description: "Model static content and CMS boundaries"
+  default_prompt: "Use $model-content-data to choose inline, constant, contract, or CMS provider boundaries."

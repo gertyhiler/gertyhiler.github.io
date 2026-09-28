@@ -1,0 +1,28 @@
+.section {
+  scroll-margin-top: 30px;
+}
+.section h2 {
+  font-size: 13px;
+  font-weight: 400;
+  color: var(--muted);
+  margin: 0 0 23px;
+}
+.content p {
+  font-size: 14px;
+  color: var(--muted);
+  margin: 8px 0 0;
+  line-height: 1.65;
+}
+.note-link {
+  font-size: 15px;
+  text-decoration: none;
+  border-bottom: 1px solid #bbc8bd;
+  padding-bottom: 2px;
+}
+.note-link span {
+  color: var(--green);
+}
+.content :global(.meta) {
+  font-size: 11px;
+  margin-top: 18px;
+}

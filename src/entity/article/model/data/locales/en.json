@@ -1,0 +1,30 @@
+{
+  "dotfiles": {
+    "title": "A development setup I can explain",
+    "summary": "One repository for the configuration I use every day. Flat application folders, explicit links, and a Neovim submodule.",
+    "company": "Dotfiles",
+    "kind": "work",
+    "draft": false
+  },
+  "agent-context": {
+    "title": "Giving coding agents a useful starting point",
+    "summary": "The way I want an agent to work starts with the repository: its context, its boundaries, and its definition of done.",
+    "company": "",
+    "kind": "writing",
+    "draft": true
+  },
+  "nextjs-performance": {
+    "title": "Next.js performance beyond the interface",
+    "company": "HornyBox",
+    "summary": "Application auditing, SSR response caching, and infrastructure work for an e-commerce platform.",
+    "kind": "work",
+    "draft": false
+  },
+  "security-backoffice": {
+    "title": "Replacing a 1C workflow with a security backoffice",
+    "company": "DOGMA",
+    "summary": "Roles, counterparty accreditation, documents, and integrations in one web application.",
+    "kind": "work",
+    "draft": false
+  }
+}

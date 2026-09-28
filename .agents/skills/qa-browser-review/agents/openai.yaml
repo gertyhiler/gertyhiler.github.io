@@ -1,0 +1,4 @@
+interface:
+  display_name: "Browser QA Review"
+  short_description: "Inspect browser behavior and visible regressions"
+  default_prompt: "Use $qa-browser-review to inspect this site for browser and visual regressions."

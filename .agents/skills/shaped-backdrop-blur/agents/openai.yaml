@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shaped Backdrop Blur"
+  short_description: "Build masked non-rectangular backdrop blur"
+  default_prompt: "Use $shaped-backdrop-blur to implement this shaped frosted-glass effect."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Design Review"
+  short_description: "Audit a frontend UI implementation"
+  default_prompt: "Use $web-design-reviewer to audit this frontend implementation."

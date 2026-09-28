@@ -1,0 +1,4 @@
+interface:
+  display_name: "Styling Review"
+  short_description: "Review Tailwind, CSS, BEM, and layout"
+  default_prompt: "Use $review-styling to assess this styling diff without changing it."

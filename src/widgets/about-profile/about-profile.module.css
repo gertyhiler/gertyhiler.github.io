@@ -1,0 +1,27 @@
+.section {
+  scroll-margin-top: 30px;
+}
+.section h2 {
+  font-size: 13px;
+  font-weight: 400;
+  color: var(--muted);
+  margin: 0 0 23px;
+}
+.about {
+  border-top: 1px solid var(--line);
+  padding-top: 30px;
+}
+.about > p {
+  font-size: 15px;
+  max-width: 610px;
+  margin: 0;
+  color: var(--muted);
+}
+.about .contact {
+  margin-top: 24px;
+  font-size: 13px;
+}
+.contact a {
+  margin-left: 8px;
+  color: var(--ink);
+}

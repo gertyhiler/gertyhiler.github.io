@@ -1,0 +1,4 @@
+interface:
+  display_name: "Figma JSON To UI Block"
+  short_description: "Convert Figma JSON into a production UI block"
+  default_prompt: "Use $figma-json-to-ui-block to convert these Figma measurements into a production UI block."

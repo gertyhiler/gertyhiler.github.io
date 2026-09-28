@@ -1,0 +1,13 @@
+{
+  "intro": "Software engineer.",
+  "lead": "A frontend foundation. A wider view of software.",
+  "bio": "I build web applications and work across backend development, infrastructure, and delivery. My core stack is TypeScript, React, and Next.js.",
+  "now": "Currently deepening my work in backend engineering and DevOps.",
+  "selected": "Selected work",
+  "projects": "Small things I use",
+  "lan": "Share files and messages on a trusted local network.",
+  "dotfiles": "My everyday tools, configured in the open.",
+  "noteDesc": "Project context, bounded tasks, review, and evidence that a change works.",
+  "noteMeta": "Engineering practice · Draft",
+  "aboutText": "My background is in frontend development and information security education. These days I spend more time on backend systems, infrastructure, and the processes around shipping software."
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Project Tests"
+  short_description: "Choose valuable test coverage"
+  default_prompt: "Use $design-project-tests to choose and implement meaningful project tests."

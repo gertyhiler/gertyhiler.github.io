@@ -1,0 +1,46 @@
+.section {
+  scroll-margin-top: 30px;
+}
+.section h2 {
+  font-size: 13px;
+  font-weight: 400;
+  color: var(--muted);
+  margin: 0 0 23px;
+}
+.work {
+  border-top: 1px solid var(--line);
+  padding: 30px 0 38px;
+}
+.work-link {
+  display: flex;
+  gap: 30px;
+  justify-content: space-between;
+  text-decoration: none;
+}
+.work h3 {
+  font-size: 19px;
+  line-height: 1.4;
+  font-weight: 400;
+  margin: 0 0 10px;
+  letter-spacing: -0.015em;
+}
+.work-link p:last-child {
+  max-width: 570px;
+  color: var(--muted);
+  margin: 0;
+  font-size: 15px;
+}
+.arrow {
+  color: var(--green);
+  padding-top: 25px;
+}
+.work-link + .work-link {
+  margin-top: 30px;
+  padding-top: 30px;
+  border-top: 1px solid var(--line);
+}
+@media (max-width: 600px) {
+  .work h3 {
+    font-size: 18px;
+  }
+}

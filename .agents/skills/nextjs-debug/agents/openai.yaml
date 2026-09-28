@@ -1,0 +1,4 @@
+interface:
+  display_name: "Next.js JSONL Debugging"
+  short_description: "Debug flaky local browser bugs with JSONL traces"
+  default_prompt: "Use $nextjs-debug to instrument this flaky local Next.js bug with JSONL traces and clean up after validation."

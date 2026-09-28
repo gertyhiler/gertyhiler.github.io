@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Match Review"
+  short_description: "Compare rendered UI with its design reference"
+  default_prompt: "Use $design-match-review to compare this implementation with its design reference."

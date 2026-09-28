@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deliver Figma Section"
+  short_description: "Deliver a verified section from Figma"
+  default_prompt: "Use $deliver-figma-section to turn Figma references into a verified site section."

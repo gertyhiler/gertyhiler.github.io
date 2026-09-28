@@ -1,0 +1,4 @@
+interface:
+  display_name: "Delivery Readiness Review"
+  short_description: "Optional delivery readiness review"
+  default_prompt: "Use $review-delivery-readiness for one bounded readiness review when it is useful."

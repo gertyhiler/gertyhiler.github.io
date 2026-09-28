@@ -1,0 +1,4 @@
+interface:
+  display_name: "Organize Module Code"
+  short_description: "Organize module responsibilities"
+  default_prompt: "Use $organize-module-code to place and name code by responsibility."

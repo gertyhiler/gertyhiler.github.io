@@ -1,0 +1,4 @@
+interface:
+  display_name: "Section Visual Contract Loop"
+  short_description: "Run section visual evidence and acceptance"
+  default_prompt: "Use $section-visual-contract-loop to run the visual contract loop for this section."
